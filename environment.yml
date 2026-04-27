@@ -1,0 +1,16 @@
+name: cc_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - numpy
+  - pyvista
+  - vtk=9.3.1
+  - wxpython
+  - pytest
+  - pip:
+      # CAD kernel used by CC_app.py and utils.py.
+      - build123d==0.9.1
+      # Provides the OCP.* modules imported directly in utils.py.
+      - cadquery-ocp==7.8.1.1.post1
