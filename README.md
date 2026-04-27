@@ -1,6 +1,6 @@
 # Collimator Creator
 
-Desktop GUI application for generating and exporting FLASH collimator CAD parts.
+Desktop GUI application for generating and exporting collimator CAD parts.
 
 ## Requirements
 
