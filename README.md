@@ -4,7 +4,7 @@ Desktop GUI application for generating and exporting collimator CAD parts for pr
 
 ## Requirements
 
-- macOS/Linux/Windows desktop with a graphical display
+- macOS/Linux/Windows
 - [Conda](https://docs.conda.io/en/latest/) (Miniconda or Anaconda)
 
 ## Install
@@ -21,3 +21,6 @@ conda activate cc_env
 ```bash
 python CC_app.py
 ```
+## UI Overview
+
+<img width="440" height="374" alt="image" src="https://github.com/user-attachments/assets/cad3c7e8-b6ce-44f8-a787-91fc01809226" />
